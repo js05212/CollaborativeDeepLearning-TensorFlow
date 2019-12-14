@@ -29,6 +29,10 @@ This is the author's officially unofficial TensorFlow implementation of CDL. Not
 
 * [Python code](https://github.com/xiaoouzhang/Collaborative-Deep-Learning-for-Recommender-Systems) by [xiaoouzhang](https://github.com/xiaoouzhang).
 
+#### Acknowledgement
+
+* This code is based on my original [Matlab implementation of CDL](https://github.com/js05212/CDL), the [MXNet version](https://github.com/js05212/MXNet-for-CDL), as well as [Xiaopeng Li's Tensorflow code](https://github.com/eelxpeng/CollaborativeVAE).
+
 #### Reference:
 [Collaborative Deep Learning for Recommender Systems](http://wanghao.in/paper/KDD15_CDL.pdf)
 ```
